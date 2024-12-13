@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ublzesc.
 - 👀 I’m interested in finance, machine learning and movies.
-- 🌱 I’m currently learning C++ and NLP.
+- 🌱 I’m currently learning C++ and Python.
 - 💞️ I’m not looking to collaborate on any project.
 - 📫 How to reach me: just google me.
 
